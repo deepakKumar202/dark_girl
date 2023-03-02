@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244932313531",
+    "project_id": "darkgirl-f0e2b",
+    "storage_bucket": "darkgirl-f0e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244932313531:android:152abc35670dc37344049e",
+        "android_client_info": {
+          "package_name": "com.example.dark_girl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244932313531-42r69s6fbl2umul5h9o2v72es9rva4ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dark_girl",
+            "certificate_hash": "ddf668cc93b23ea5c25f55a47987b9deeda1bbc5"
+          }
+        },
+        {
+          "client_id": "244932313531-gmuo3arcb7pjd98r4g9totg2u9vj9p1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qJz9zdU3TQiav0l7PXoCh72U0rbNUhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244932313531-gmuo3arcb7pjd98r4g9totg2u9vj9p1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
